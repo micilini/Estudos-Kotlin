@@ -10,8 +10,6 @@ fun main() {
 
     println("Saí do IF/ELSE...")
 
-    println("Maior de Idade? ${maiorDeIdade(15)}")
-
     //If/Else podem estar aninhados dentro de outros
 
     if(10 < 5){
