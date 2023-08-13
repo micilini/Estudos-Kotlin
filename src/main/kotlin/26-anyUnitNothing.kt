@@ -45,7 +45,7 @@ Supondo que o desenvolvedor A terminou mais rápido que o desenvolvedor B, e que
 
 Ele pede para que o desenvolvedor B desenvolva tal função.
 
-Só que, o desenvolvedor B ainda não fez essa função... nesse caso o desenvolvedor A transforma cria somente a estrutura da função de salvar, e diz que seu retorno será NOTHING.
+Só que, o desenvolvedor B ainda não fez essa função... nesse caso o desenvolvedor A criaria somente a estrutura da função de salvar, e diz que seu retorno será NOTHING.
 
 Onde dentro dessa função existirá um TODO, que irá lançar uma exceção alegando "Não implementado" ou "Não terminado" ou "Não tive tempo".
 
