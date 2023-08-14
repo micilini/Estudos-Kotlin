@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {//A função Main é o primeiro bloco de código que o compilador procura quando você roda o projeto. Ela também é conhecida como ponto de entrada.
     //A função Main é única e deve existir somente uma por arquivo.
 

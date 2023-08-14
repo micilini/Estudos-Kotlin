@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {
     //Existem alguns tipos de dados classificados como 'unsigned', que são do tipo sem sinal
     println("ULong Max - ${ULong.MAX_VALUE} - ${ULong.MIN_VALUE}")

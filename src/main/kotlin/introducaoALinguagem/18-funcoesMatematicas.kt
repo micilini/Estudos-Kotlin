@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 import kotlin.math.*//Como estamos usando mais de uma biblioteca de Math o Kotlin importa todas de uma vez
 
 fun main() {

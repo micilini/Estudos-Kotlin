@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {
     //Operadores aritméticos: São aqueles que usamos para realizar operações matemáticas (adição, subtração, divisão, multiplicação, resto da divisão)
 

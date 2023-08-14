@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {
     //Funções Lambda, são consideradas funções anônimas que podem ser passadas por parâmetro.
     //De modo que podemos chamá-la dentro de uma outra função. Isso significa que podemos passar uma regra por parâmetro.

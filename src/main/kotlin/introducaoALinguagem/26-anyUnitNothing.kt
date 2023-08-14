@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {
     //Usos do Any, Unit, Nothing
     //O tipo de dado Any ele dá origem aos outros tipos, todos os tipos como Int, Boolean e afins, são descendentes de ANY

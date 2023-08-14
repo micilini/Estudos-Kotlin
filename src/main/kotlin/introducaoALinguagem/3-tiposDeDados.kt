@@ -1,4 +1,4 @@
-/*
+package introducaoALinguagem/*
     Type    Bit
     Double  64
     Float   32

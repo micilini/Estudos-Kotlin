@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {
     //Funções Normais:
     olaMundo()//Modo de chamar a função, pode ser chamado quantas vezes quiser

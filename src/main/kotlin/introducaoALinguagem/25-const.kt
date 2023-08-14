@@ -1,4 +1,4 @@
-//Variáveis do tipo CONST, diferente de outras linguagens, que significa constante, aqui elas são consideradas TOP LEVEL DECLARATION.
+package introducaoALinguagem//Variáveis do tipo CONST, diferente de outras linguagens, que significa constante, aqui elas são consideradas TOP LEVEL DECLARATION.
 //Podendo ser declaradas fora de qualquer escopo, como estamos vendo abaixo:
 
 const val a = 10//O const precisa sempre ser inicializado! Não é possível atrelar funções ou classes para dentro do const
@@ -10,5 +10,5 @@ const val a = 10//O const precisa sempre ser inicializado! Não é possível atr
 //const pode ser de qualquer tipo de dado (Int, Float, Double, String e afina)
 
 fun main() {
-    println("Valor da Constante [a]: ${a}")
+    println("Valor da Constante [a]: $a")
 }

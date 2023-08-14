@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun Main(){
     //Operador de Atribuição: Como o próprio nome já nos diz, o operador de atribuição, atribuí um valor/dado a algum outro lugar, que nesse caso é a uma variável.
 

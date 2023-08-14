@@ -1,3 +1,5 @@
+package introducaoALinguagem
+
 fun main() {
     //No Kotlin existem dois tipos de variáveis, aquelas que aceitam ter seus valores alterados, e aquelas que não aceitam.
 
