@@ -1,5 +1,5 @@
 class Receita{
-    //Existirão momentos em que precisamos inicializar algum atributo de maneira tárdia, ou seja, por meio de outros métodos existentes na própria classe.
+    //Existirão momentos em que precisamos inicializar algum atributo de maneira tardia, ou seja, por meio de outros métodos existentes na própria classe.
 
     //A declaração abaixo, cria uma variável do tipo STRING, que possui uma inicialização tárdia (lateinit), de modo a dizer a classe que inicializaremos ela mais tarde.
 
@@ -41,7 +41,7 @@ fun main() {
 
     r.imprimeReceita()//Por fim, conseguimos imprimir nossa receita: 'Pegue 2 ovos, coloque numa bandeja, adicione sal e tome puro!'
 
-    //E qual é a diferença entre usar o lateinit em uma variável do que instanciar o atributo já com um valor padrão ou quem sabe nulo?
+    //E qual é a diferença entre usar o lateinit em uma variável, do que instanciar o atributo já com um valor padrão, ou quem sabe nulo?
 
     /*
     Sendo assim, porque ao invés de usar isso:
@@ -65,7 +65,7 @@ fun main() {
     println("Você precisa gerar a receita primeiro")
 
     Resposta: Quando existe uma variável do tipo lateinit, é exigido que ela seja do tipo VAR, ao mesmo tempo que o compilador não se preocupa em armazená-la na memória, pois ela ainda não existe (e será inicializada tardiamente)
-    Se tratando da questão de performance das nossas aplicações, usar o late init trás uma certa vantagem do que declarar variáveis com valores pré-definidos.
+    Se tratando da questão de performance das nossas aplicações, usar o late init nos tras uma certa vantagem do que declarar variáveis com valores pré-definidos.
 
      */
 
