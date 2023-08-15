@@ -3,7 +3,7 @@
 class Produtos//Classe vazia, o Kotlin não reclama
 
 class Pessoa{//Classe em Kotlin
-//Classes sem a presença dos parentesis, não possuem construtores, e você precisa declara-los! (o segundo arquiva explica isso)
+//Classes sem a presença dos parêntesis, não possuem construtores, e você precisa declará-los!
 }
 
 //Exemplos de Declaração de Classes com Parâmetros
@@ -35,6 +35,10 @@ class Carro(val modelo: String, val ano: Int = 2023){//Um Parâmetro Opcional
 
     fun recebeParametro(a: Int){//Exemplo de método da classe que recebe atributo
         println("O atributo é $a")
+    }
+
+    fun retornarFrase(): String{//Método que tem um tipo de retorno
+        return "Este é um carro muito bonito!"
     }
 
 }
