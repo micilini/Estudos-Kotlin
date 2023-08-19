@@ -2,7 +2,7 @@ fun main(){
     //Introdução ao ArrayList
 
     /*
-    No Kotlin nós dispomos de uma classe chamada "ArrayList", que nos ajuda a criar um array de forma dinânima.
+    No Kotlin nós dispomos de uma classe chamada "ArrayList", que nos ajuda a criar um array de forma dinâmima.
     Diferente do ArrayOf, o ArrayList, dispõe de métodos e atributos que nos ajudam a adicionar e remover índices.
     ArrayList pode conter duplicatas, ou seja, valores que se repetem, ao mesmo tempo que esse tipo de array não é sincronizado por natureza.
      */
@@ -23,7 +23,7 @@ fun main(){
     listaDois.set(1, "Roll")//Mesma lógica do comando acima
 
     //No caso do método add com index, lembre-se que não conseguimos adicionar em um índice muito distante. Nesse caso podemos adicionar no índice 0, que ocuparia o lugar de "Olá Mundo", fazendo com que os index se reorganizem.
-    //Ou seja, se colocassemos 'false' no índice 0, o valor "Olá Mundo" ocuparia o índice 1, e o 12 o índice 2 e assim por diante.
+    //Ou seja, se colocássemos 'false' no índice 0, o valor "Olá Mundo" ocuparia o índice 1, e o 12 o índice 2 e assim por diante.
 
     //Como modificar um índice do array?
 
