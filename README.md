@@ -93,6 +93,28 @@ Nesta seção você vai aprender os conceitos sobre orientação a objetos atrel
 ### Parte 16: Classe Anônima
 [Classe Anônima](https://micilini.com/conteudos/android/classe-anonima): Aprenda um pouco sobre o conceito de classes anônimas e como declará-las usando o 'object'.
 
+## Colções e Funções
+
+Nesta seção você vai aprender um pouco mais sobre o uso de coleções de dados.
+
+### Parte 1: ArrayOf
+[ArrayOf](https://micilini.com/conteudos/android/arrayOf): Neste conteúdo você irá aprender um sobre mais sobre a criação de matrizes usando o famoso ArrayOf.
+
+### Parte 2: ArrayList
+[ArrayList](https://micilini.com/conteudos/android/arrayList): Neste conteúdo você irá aprender sobre a classe ArrayList, que nós dá algumas possibilidades a mais.
+
+### Parte 3: ListOf & MutableListOf
+[ListOf & MutableListOf](https://micilini.com/conteudos/android/listOf-mutableListOf): Neste conteúdo você irá aprender sobre as listas imutáveis e mutáveis com ListOf & MutableListOf.
+
+### Parte 4: SetOf & MutableSetOf
+[SetOf & MutableSetOf](https://micilini.com/conteudos/android/setOf-mutableSetOf): Neste conteúdo você irá aprender sobre as listas imutáveis e mutáveis com SetOf & MutableSetOf.
+
+### Parte 5: MapOf & MutableMapOf
+[MapOf & MutableMapOf](https://micilini.com/conteudos/android/mapOf-mutableMapOf): Neste conteúdo você irá aprender sobre as listas de chave-valor do tipo MapOf e MutableMapOf.
+
+### Parte 6: Métodos Especiais
+[Métodos Especiais](https://micilini.com/conteudos/android/metodos-especiais): Aprenda sobre: Any, Count, First, Last, FirstOrNull, LastOrNull, Sum, SumOf, Filter, Take, TakeLast, ForEach, MaxOf, MinOf, Map, Avreage, Distinct, Sorted, Reversed.
+
 ## Artigos
 
 [RecyclerView](https://micilini.com/conteudos/android/recyclerview): Neste conteúdo você irá aprender a utilizar e criar listas recicláveis por meio da RecyclerView.
