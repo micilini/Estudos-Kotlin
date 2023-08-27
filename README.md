@@ -118,3 +118,5 @@ Nesta seção você vai aprender um pouco mais sobre o uso de coleções de dado
 ## Artigos
 
 [RecyclerView](https://micilini.com/conteudos/android/recyclerview): Neste conteúdo você irá aprender a utilizar e criar listas recicláveis por meio da RecyclerView.
+
+[Introdução ao Room](https://micilini.com/conteudos/android/room): Neste conteúdo você vai aprender sobre a biblioteca Room que é muito utilizada para se trabalhar com Banco de Dados.
